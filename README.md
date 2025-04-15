@@ -1,12 +1,16 @@
 # 🍄 Mushroom Classification with Vision Transformers (ViT)
 
-[![Python 3.12.3](https://img.shields.io/badge/Python-3.12.3-blue.svg)](https://www.python.org/downloads/)
-[![TensorFlow 2.19.0](https://img.shields.io/badge/TensorFlow-2.19.0-orange.svg)](https://www.tensorflow.org/)
-[![Keras 3.9.0](https://img.shields.io/badge/Keras-3.9.0-red.svg)](https://keras.io/)
-[![NumPy 2.1.3](https://img.shields.io/badge/NumPy-2.1.3-green.svg)](https://numpy.org/)
-[![pandas 2.2.3](https://img.shields.io/badge/pandas-2.2.3-blue.svg)](https://pandas.pydata.org/)
-[![scikit-learn 1.6.1](https://img.shields.io/badge/scikit--learn-1.6.1-orange.svg)](https://scikit-learn.org/)
-[![scipy 1.15.2](https://img.shields.io/badge/SciPy-1.15.2-yellow.svg)](https://scipy.org/)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.12.3-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-2.19.0-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-3.9.0-red?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/NumPy-2.1.3-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/pandas-2.2.3-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/scikit--learn-1.6.1-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/SciPy-1.15.2-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
+</div>
 
 A deep learning project for accurately classifying mushroom species using Vision Transformers (ViT). This model leverages state-of-the-art attention mechanisms to achieve high accuracy in mushroom classification.
 
@@ -86,8 +90,8 @@ mushroom-classification/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/user/mushroom-classification.git
-   cd mushroom-classification
+   git clone https://github.com/LePhiAnhDev/Olympiad-in-AI-at-HCMC.git
+   cd Olympic-AI-HCMC
    ```
 
 2. Create and activate a virtual environment:
