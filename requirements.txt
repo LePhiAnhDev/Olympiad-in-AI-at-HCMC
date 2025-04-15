@@ -1,0 +1,10 @@
+tensorflow==2.19.0 #New
+keras==3.9.0 #New
+numpy==2.1.3 #New
+pandas==2.2.3 #New
+scikit-learn==1.6.1 #New
+opencv-python
+Pillow
+matplotlib
+tqdm
+scipy==1.15.2 #New

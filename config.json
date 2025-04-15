@@ -1,0 +1,14 @@
+{
+    "seed": 42,
+    "img_size": 32,
+    "batch_size": 32,
+    "epochs": 50,
+    "learning_rate": 0.0001,
+    "val_split": 0.2,
+    "model_size": "base",
+    "use_mixed_precision": false,
+    "k_fold": 0,
+    "augment": true,
+    "tta": false,
+    "ensemble": 1
+}
