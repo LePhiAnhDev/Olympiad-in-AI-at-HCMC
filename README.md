@@ -1,4 +1,6 @@
-# 🍄 Mushroom Classification with Vision Transformers (ViT)
+<div align="center">
+  <h1>🍄 Mushroom Classification with Vision Transformers (ViT)</h1>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.12.3-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
