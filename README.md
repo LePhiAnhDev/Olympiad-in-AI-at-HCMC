@@ -93,7 +93,7 @@ mushroom-classification/
 1. Clone the repository:
    ```bash
    git clone https://github.com/LePhiAnhDev/Olympiad-in-AI-at-HCMC.git
-   cd Olympic-AI-HCMC
+   cd Olympiad-in-AI-at-HCMC
    ```
 
 2. Create and activate a virtual environment:
