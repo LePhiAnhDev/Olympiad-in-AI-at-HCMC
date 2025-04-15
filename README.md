@@ -1,14 +1,16 @@
 # 🍄 Mushroom Classification with Vision Transformers (ViT)
 
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![TensorFlow 2.x](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.12.3](https://img.shields.io/badge/Python-3.12.3-blue.svg)](https://www.python.org/downloads/)
+[![TensorFlow 2.19.0](https://img.shields.io/badge/TensorFlow-2.19.0-orange.svg)](https://www.tensorflow.org/)
+[![Keras 3.9.0](https://img.shields.io/badge/Keras-3.9.0-red.svg)](https://keras.io/)
+[![NumPy 2.1.3](https://img.shields.io/badge/NumPy-2.1.3-green.svg)](https://numpy.org/)
+[![pandas 2.2.3](https://img.shields.io/badge/pandas-2.2.3-blue.svg)](https://pandas.pydata.org/)
+[![scikit-learn 1.6.1](https://img.shields.io/badge/scikit--learn-1.6.1-orange.svg)](https://scikit-learn.org/)
+[![scipy 1.15.2](https://img.shields.io/badge/SciPy-1.15.2-yellow.svg)](https://scipy.org/)
 
 A deep learning project for accurately classifying mushroom species using Vision Transformers (ViT). This model leverages state-of-the-art attention mechanisms to achieve high accuracy in mushroom classification.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/user/mushroom-classification/main/assets/mushroom_banner.jpg" alt="Mushroom Classification" width="80%">
-</div>
+
 
 ## 📋 Table of Contents
 
@@ -51,9 +53,7 @@ The implemented Vision Transformer (ViT) architecture processes images by:
    - MLP blocks with dropout
 4. **Classification Head**: Final layers for mushroom species prediction
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/user/mushroom-classification/main/assets/vit_architecture.png" alt="Vision Transformer Architecture" width="80%">
-</div>
+
 
 ### Model Size Configurations
 
@@ -273,12 +273,17 @@ The model's performance is evaluated using:
 - **F1-Score**: Harmonic mean of precision and recall
 - **Confusion Matrix**: Detailed breakdown of predictions by class
 
-## 📑 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 👨‍💻 Author & Contact
+<div align="center">
+  <h3>Le Phi Anh</h3>
+</div>
+<div align="center">
+  <a href="https://github.com/LePhiAnhDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://t.me/lephianh386ht" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://lephianh.id.vn/" target="_blank"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
+</div>
 
 ---
-
-<div align="center">
-  <p>Created with ❤️ for mushroom classification research</p>
-</div>
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/LePhiAnhDev" target="_blank">LePhiAnhDev</a>
+</p>
